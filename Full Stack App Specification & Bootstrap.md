@@ -44,6 +44,8 @@ This specification enables rapid, modular, AI-driven development with multi-agen
 | Data visualization, dashboards | **Best fit** | Possible, more work |
 | Authentication, user management | Not built-in | **Built-in/Extensible** |
 
+IMPORTANT: Confirm with the USER your stack selection.
+
 ## 3. Directory Structure
 
 ### Streamlit (Python-only Example)
